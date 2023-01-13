@@ -12,4 +12,4 @@
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div><br>
 
-Cursando Análise e Desenvolvimento de Sistemas (2º período)
+Cursando Análise e Desenvolvimento de Sistemas (3º período)
