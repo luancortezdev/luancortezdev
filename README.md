@@ -13,4 +13,3 @@
 </div><br>
 
 Cursando Análise e Desenvolvimento de Sistemas (3º período)
-![image](https://user-images.githubusercontent.com/94543490/219523815-4ffe08a2-bf21-48da-86b5-78be0f589732.png)
